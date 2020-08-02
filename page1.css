@@ -1,0 +1,54 @@
+#den{
+                width:650px;
+                height:40px;
+                border-radius:20px;
+                font-size:20px;
+                font-family:Arial;
+                border-color:white;
+                
+               
+                
+            }
+            #button{
+                 width:170px;
+                 height:40px;
+                 background-color:whitesmoke;
+                 font-size: 20px;
+                 margin-top:10px;
+                 border-radius:1px;
+                 margin-top:45px;
+                 margin:45px;
+                 font-weight: lighter;
+                 border-color:white;
+
+                 
+           }
+                  
+            div{
+            text-align:center;
+            font-size:20px;
+            margin-left:50%px;
+            margin-right:50%px;
+            }
+            .parent{
+                top:50%;
+                bottom:50%;
+                margin-left:50%px;
+            
+                margin-right:50%px;
+                
+                padding:20px;
+                margin:30px;
+        
+
+            }
+            .child{
+                float:right;
+                font-size:20px;
+            }
+            h3{
+                margin-left:1140px;
+                margin-bottom:50px;
+                margin-top:-140px;
+                font-size:45px;
+            }

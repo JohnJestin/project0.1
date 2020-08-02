@@ -1,0 +1,49 @@
+#img{
+    width:150px;
+}
+.adv{
+    color:rgb red;
+}
+a{
+    float:right;
+}
+table{
+    font-size: 40px
+    
+}
+#div{
+    padding:30px;
+    margin:20px;
+    font-size:20px;
+    font-weight:bold;
+
+}
+#t1,#t2,#t3,#t4,#t5{
+    width:500px;
+    height:30px;
+    font-size:20px;
+}
+td,th{
+    
+    border-collapse:collapse;
+    padding:20px;
+    font-size:30px;
+}
+#sub{
+    text-align:center;
+    background-color:blue;
+    height:45px;
+    width:155px;
+    margin-top:50px;
+    margin-left:200px;
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+    
+
+}
+h1{
+    margin-top:100px;
+    font-weight:400px;
+    font-size:40px;
+}
